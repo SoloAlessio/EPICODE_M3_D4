@@ -1,0 +1,21 @@
+html {
+    scroll-behavior: smooth;
+}
+.card{
+    color: #212121;
+    background-color: #fff;
+    margin-bottom: 30px;
+}
+.weekly p.card-text{
+    color: #767676;
+}
+.summer p.card-text{
+    color: #212121;
+    font-weight: 500;
+}
+.container > h1{
+    color: #3d3d3d;
+}
+.jumbotron{
+    background: linear-gradient(45deg,rgba(24,229,105,.69),rgba(0,104,209,.69));
+}
